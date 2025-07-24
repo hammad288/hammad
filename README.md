@@ -1,2 +1,3 @@
-# hammad
-this is my first git repository
+# Hammad
+This is my first git repository
+Author-Hammadmaster
